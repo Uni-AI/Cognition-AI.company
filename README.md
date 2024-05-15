@@ -4,7 +4,10 @@ name: Cognition Labs
 sch: https://www.google.com/search?q=Devin+ai+cognition+labs
 
 Home: https://www.cognition.ai/
-- social: https://twitter.com/cognition_labs
+
+social:
+- X: https://twitter.com/cognition_labs
+- channel: https://www.youtube.com/@Cognition-Labs
 
 # product:
 ## Devin
